@@ -653,11 +653,11 @@ Use a compatible desktop version of Microsoft Excel for the best support of Pivo
 
 ### Step 2: Review the Raw Data
 
-Open the `Raw_Data` worksheet to inspect the imported transaction records and original column structure.
+Open the `reatail_dataset` worksheet to inspect the imported transaction records and original column structure.
 
 ### Step 3: Review the Cleaned Data
 
-Open `Cleaned_Data` to examine the prepared data and any additional calculated columns.
+Open `Retail_dataset` to examine the prepared data and any additional calculated columns.
 
 ### Step 4: Explore the PivotTables
 
@@ -665,7 +665,7 @@ Open `Pivot_Analysis` to review the summaries used for city, payment method, sto
 
 ### Step 5: Review the Formulas
 
-Open `Formula_Practice` to inspect the VLOOKUP, INDEX-MATCH, IF, and other formulas used in the project.
+Open `Formula` to inspect the VLOOKUP, INDEX-MATCH, IF, and other formulas used in the project.
 
 ### Step 6: Open the Dashboard
 
